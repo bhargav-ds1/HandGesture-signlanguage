@@ -11,3 +11,6 @@ How to Run:
 3. Use your right hand to show designated hand signs for the alphabets as per German sign language (GSL)
 4. See the results of the detection on top of the square surrounding the hand.
 
+Test Result:
+
+![](https://github.com/bhargav-ds1/HandSignDetection-signlanguage/blob/main/Assets/test-gif.gif)
